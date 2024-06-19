@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/wildCoders/",
+    "build": "vite build --base=/js_104_Vlad22523/",
     "preview": "vite preview"
   },
   "devDependencies": {
